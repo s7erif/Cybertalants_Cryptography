@@ -26,18 +26,10 @@ This repository documents my learning journey in **Applied Cryptography for CTFs
 ```
 Cybertalents_Cryptography/
 │
-├── G0LD/
-├── Hash3rror/
-├── HideData/
-├── Lineq/
-├── Louder/
-├── Postbase/
-├── RSA101/
 ├── RedStoneAdmin/
 ├── Transposed/
 ├── UP/
 ├── Ziggy/
-├── hsh/
 │
 └── README.md
 ```
